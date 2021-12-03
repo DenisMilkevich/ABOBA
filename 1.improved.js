@@ -1,6 +1,6 @@
-function GIT(x,y){
+function countSum(x,y){
     return x + y
 }
 
-const sum = GIT(2,3)
+const sum = countSum(2,3)
 console.log(sum)

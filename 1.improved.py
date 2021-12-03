@@ -1,6 +1,6 @@
-def GIT(x, y):
+def count_sum(x, y):
     sum = x + y
     print(sum)
 
 
-GIT(int(input()), int(input()))
+count_sum(int(input()), int(input()))
